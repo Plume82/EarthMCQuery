@@ -1,0 +1,12 @@
+com\example\EarthMCPlayerLookup.class
+com\example\Main.class
+com\example\BotClient.class
+com\example\EarthMCNationLookup.class
+com\example\GroupBotClient$ConnectionListener.class
+com\example\EarthMCTownLookup.class
+com\example\GroupBotClient.class
+com\example\EarthMCNearbyNewTownsLookup.class
+com\example\SensitiveWordsFilter$1.class
+com\example\SensitiveWordsFilter.class
+com\example\BotClient$ConnectionListener.class
+com\example\EarthMCServerLookup.class
